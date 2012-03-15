@@ -1,0 +1,8 @@
+#This program allows you to read from three types of data files that defines user record differently. 
+#csv: Abercrombie, Neil, Male, Tan, 2/13/1943
+#pipe: Smith | Steve | D | M | Red | 3-3-1985
+#space: Kournikova Anna F F 6-3-1975 Red
+# the differences are order of attributes(last_name, first_name etc, initial, gender, color, birthday), length of gender string and birthday format.
+# the results need to be sortable on any two attributes.
+
+From https://gist.github.com/2046359 from zben via SF Ruby

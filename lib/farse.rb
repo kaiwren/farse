@@ -1,0 +1,2 @@
+module Farse
+end
